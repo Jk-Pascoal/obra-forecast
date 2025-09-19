@@ -72,6 +72,6 @@ Veja `reports/dicionario_dados.md` para descrição das colunas esperadas.
 - Estudo de caso documentado
 
 ## Referências e dicas
-- Projeto orientado por rotina de deep work e entregas semanais
+- Projeto orientado por rotina de deep work
 - Métricas de acompanhamento: 1 entrega/semana, ≥3 commits/semana
-- README, checklist, dicionário de dados e estudo de caso para portfólio
+- README, checklist, dicionário de dados
